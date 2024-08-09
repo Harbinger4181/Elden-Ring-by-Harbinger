@@ -13,7 +13,7 @@ const comicMedia = [
     { type: 'image', src: 'https://files.catbox.moe/7nkpdz.png' },
     { type: 'image', src: 'https://files.catbox.moe/zk6o3i.png' },
     { type: 'image', src: 'https://files.catbox.moe/xvn4yl.png' },
-    { type: 'image', src: 'https://files.catbox.moe/xvn4yl.png' },
+    { type: 'image', src: 'https://files.catbox.moe/gfuu2m.png' },
     { type: 'image', src: 'https://files.catbox.moe/380czr.png' },
     { type: 'image', src: 'https://files.catbox.moe/5q00wn.png' },
     { type: 'image', src: 'https://files.catbox.moe/mbfbca.png' },
